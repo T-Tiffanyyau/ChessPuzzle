@@ -1,14 +1,15 @@
-# Chess Puzzlez
+# Chess Puzzles
 
 ## Introduction
 Chess Puzzles is an interactive and educational chess game designed by the QTs. 
-The project has been meticulously developed with the aim of educating users about sophisticated tactics in the game of chess.
-The project has developed a platform that combines chess lessons with puzzles, allowing users to learn chess tactics and then apply them in engaging puzzles.
+The project has been meticulously developed to educate users about sophisticated tactics in the game of chess.
+The project has developed a platform combining chess lessons with puzzles, allowing users to learn chess tactics and apply them in engaging puzzles.
 
 ## Installation
 1. Download Qt Creator
 2. Download the zip file of the project
 3. Open the `ChessApp.pro` file with the Qt Creator
+4. Press the run button on the screen (or navigate to Build > run)
 
 ## Usage
 1. Start by opening any lesson of your choice.
@@ -28,11 +29,11 @@ The project has developed a platform that combines chess lessons with puzzles, a
 ### Puzzles
 - Puzzles are directly linked to the lessons, reinforcing learning.
 - A sequence of correct moves is required to complete each puzzle.
-- Hints are available, guiding users through the puzzles.
+- Hints are available to guide users through the puzzles.
 - Incorrect moves reset the puzzle, encouraging learning through trial and error.
 
 ### Interactive Salvation Page
-- Upon completing a puzzle, users are directed to a dynamic salvation page.
+- Users are directed to a dynamic salvation page upon completing a puzzle.
 - Features a physical engine that drops a ball to signify completion.
 
 ### Progress Tracking and Save Feature
@@ -40,10 +41,12 @@ The project has developed a platform that combines chess lessons with puzzles, a
 - A 'Load Save' button allows users to save their progress and revisit completed sections.
 
 ## Team Members
-- **Tiffany:** 
-- **Justin:** 
-- **Anna:** 
-- **Bracken:** 
-- **Matthew:** 
-- **Todd:** 
+- **Tiffany** 
+- **Justin** 
+- **Anna** 
+- **Bracken** 
+- **Matthew** 
+- **Todd**
+
+#### Last updated: December 12, 2023
 
