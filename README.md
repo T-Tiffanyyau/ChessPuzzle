@@ -19,7 +19,7 @@ The project has developed a platform combining chess lessons with puzzles, allow
 5. Enjoy the interactive salvation page upon completing puzzles.
 6. Save your progress using the 'Load Save' button.
 
-For more information, check the video: https://github.com/T-Tiffanyyau/ChessPuzzle/blob/main/EducationalAppVideoA9.mp4 
+For more information, download and check the video: https://github.com/T-Tiffanyyau/ChessPuzzle/blob/main/EducationalAppVideoA9.mp4 (also in the zip file)
 
 ## Features
 
