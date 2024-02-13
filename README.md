@@ -3,13 +3,13 @@
 ## Introduction
 Chess Puzzles is an interactive and educational chess game designed by the QTs. 
 The project has been meticulously developed to educate users about sophisticated tactics in the game of chess.
-The project has developed a platform combining chess lessons with puzzles, allowing users to learn chess tactics and apply them in engaging puzzles.
+The project has developed a platform combining chess lessons with puzzles, allowing users to learn and apply chess tactics in engaging puzzles.
 
 ## Installation
 1. Download Qt Creator
 2. Download the zip file of the project
 3. Open the `ChessApp.pro` file with the Qt Creator
-4. Press the run button on the screen (or navigate to Build > run)
+4. Press the run button on the screen (or navigate to `Build > run`)
 
 ## Usage
 1. Start by opening any lesson of your choice.
