@@ -12,12 +12,14 @@ The project has developed a platform combining chess lessons with puzzles, allow
 4. Press the run button on the screen (or navigate to `Build > run`)
 
 ## Usage
-1. Start by opening any lesson of your choice.
+1. Go through the lessons.
 2. Read the overview and example provided in the lesson.
 3. Proceed to the linked puzzle after completing the lesson.
 4. Use hints if needed and try to complete the puzzle with the correct moves.
 5. Enjoy the interactive salvation page upon completing puzzles.
 6. Save your progress using the 'Load Save' button.
+
+For more information, check the video: https://github.com/T-Tiffanyyau/ChessPuzzle/blob/main/EducationalAppVideoA9.mp4 
 
 ## Features
 
