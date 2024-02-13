@@ -5,6 +5,8 @@ Chess Puzzles is an interactive and educational chess game designed by the QTs.
 The project has been meticulously developed to educate users about sophisticated tactics in the game of chess.
 The project has developed a platform combining chess lessons with puzzles, allowing users to learn and apply chess tactics in engaging puzzles.
 
+Introduction video: https://github.com/T-Tiffanyyau/ChessPuzzle/blob/main/EducationalAppVideoA9.mp4
+
 ## Installation
 1. Download Qt Creator
 2. Download the zip file of the project
@@ -18,8 +20,6 @@ The project has developed a platform combining chess lessons with puzzles, allow
 4. Use hints if needed and try to complete the puzzle with the correct moves.
 5. Enjoy the interactive salvation page upon completing puzzles.
 6. Save your progress using the 'Load Save' button.
-
-For more information, download and check the video: https://github.com/T-Tiffanyyau/ChessPuzzle/blob/main/EducationalAppVideoA9.mp4 (also in the zip file)
 
 ## Features
 
