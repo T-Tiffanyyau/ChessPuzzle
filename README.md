@@ -1,7 +1,7 @@
 # Chess Puzzles
 
 ## Introduction
-Chess Puzzles is an interactive and educational chess game designed by the QTs. 
+Chess Puzzles is an interactive and educational chess game. 
 The project has been meticulously developed to educate users about sophisticated tactics in the game of chess.
 The project has developed a platform combining chess lessons with puzzles, allowing users to learn and apply chess tactics in engaging puzzles.
 
