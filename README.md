@@ -5,6 +5,7 @@ Chess Puzzles is an interactive and educational chess game.
 The project has been meticulously developed to educate users about sophisticated tactics in the game of chess.
 The project has developed a platform combining chess lessons with puzzles, allowing users to learn and apply chess tactics in engaging puzzles.
 
+### Introduction video
 Introduction video: https://github.com/T-Tiffanyyau/ChessPuzzle/blob/main/EducationalAppVideoA9.mp4
 
 ## Installation
