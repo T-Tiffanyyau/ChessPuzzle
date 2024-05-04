@@ -6,7 +6,7 @@ The project has been meticulously developed to educate users about sophisticated
 The project has developed a platform combining chess lessons with puzzles, allowing users to learn and apply chess tactics in engaging puzzles.
 
 ### Introduction video
-Introduction video: https://github.com/T-Tiffanyyau/ChessPuzzle/blob/main/EducationalAppVideoA9.mp4
+Introduction video: https://github.com/T-Tiffanyyau/ChessPuzzle/blob/main/EducationalAppVideoA9.mp4, press `View Raw` on the page.
 
 ## Installation
 1. Download Qt Creator
